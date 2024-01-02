@@ -12,5 +12,6 @@ namespace PBT819.Data
             }
         }
           public DbSet<Person> Person{get; set;}
+          public DbSet<Student> Student{get; set;}
     }
 }

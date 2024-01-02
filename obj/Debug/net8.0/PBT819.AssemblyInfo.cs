@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PBT819")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3af8f62ff5c2a8d84cc6f163c8daf082e34d77d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b61acec73c560d82a8cef04ed700cecb69d6468")]
 [assembly: System.Reflection.AssemblyProductAttribute("PBT819")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PBT819")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
