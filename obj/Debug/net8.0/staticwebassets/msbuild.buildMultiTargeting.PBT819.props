@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PBT819.props" />
+</Project>
